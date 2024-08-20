@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: elastic-search
+  elasticsearch:
+    uris: http://localhost:9200
+    username: elastic
+    password: nyNDmy678gWIGOkpEuaC
+server:
+  port: 1010
